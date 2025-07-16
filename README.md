@@ -49,5 +49,5 @@
 
 <p align="left">
   <a href="mailto:jahid1234.jh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/zahidhasan566" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://bd.linkedin.com/in/zahid-hasan-9a1b1a198" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
