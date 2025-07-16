@@ -29,22 +29,18 @@
 
 ---
 
-### 📊 GitHub Stats (Includes Private)
+### 📊 GitHub Stats 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zahidhasan566&show_icons=true&count_private=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zahidhasan566&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="Zahid's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahidhasan566&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahidhasan566&theme=radical" alt="Zahid's GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidhasan566&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zahidhasan566&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidhasan566&layout=compact&theme=radical" alt="Zahid's Top Languages" />
 </p>
 
 
