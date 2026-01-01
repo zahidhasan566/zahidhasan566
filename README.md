@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Zahid Hasan</h1>
 <h3 align="center">Engineer | Full-stack Developer </h3>
+<div align="center">
+  
+  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Full%20Stack%20Developer&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=fff)
+  
+  ### 🚀 Backend Specialist | DevOps Engineer | Cloud Enthusiast
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=6%2B+Years+of+Software+Development;Backend+%26+DevOps+Expert;Building+Scalable+Solutions;Always+Learning+New+Technologies!)](https://git.io/typing-svg)
+  
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zahidhasan566&label=Profile%20views&color=0e75b6&style=flat" alt="zahidhasan566" />
